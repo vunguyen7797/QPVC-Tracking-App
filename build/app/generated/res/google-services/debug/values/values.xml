@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">969406117182-vu7ai8g9egekballh4r0nq1g772du9ov.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://qpv-face-scanner.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">969406117182</string>
+    <string name="google_api_key" translatable="false">AIzaSyDpZq3IDA1qOYHOxFLR0m_XCGwEeVrYKLw</string>
+    <string name="google_app_id" translatable="false">1:969406117182:android:aeaea8768fe146804c286f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDpZq3IDA1qOYHOxFLR0m_XCGwEeVrYKLw</string>
+    <string name="google_storage_bucket" translatable="false">qpv-face-scanner.appspot.com</string>
+    <string name="project_id" translatable="false">qpv-face-scanner</string>
+</resources>

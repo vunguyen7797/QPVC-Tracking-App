@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/vubao/Desktop/FlutterProjects/qpv_client_app/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/vubao/.gradle/caches/transforms-2/files-2.1/44b1706abe044cd42dcac5be863451ed/core-1.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/vubao/Desktop/FlutterProjects/qpv_client_app/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/vubao/.gradle/caches/transforms-2/files-2.1/44b1706abe044cd42dcac5be863451ed/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/vubao/Desktop/FlutterProjects/qpv_client_app/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/vubao/.gradle/caches/transforms-2/files-2.1/44b1706abe044cd42dcac5be863451ed/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/vubao/Desktop/FlutterProjects/qpv_client_app/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/vubao/.gradle/caches/transforms-2/files-2.1/44b1706abe044cd42dcac5be863451ed/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
