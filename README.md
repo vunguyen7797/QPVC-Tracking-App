@@ -1,20 +1,36 @@
-<<<<<<< HEAD
-# QPV-Client-App
-=======
-# qpv_client_app
+# HueGang Team - QPVC User Tracking App
+This mobile is a part of our Smart Warehouse business solution for AI Hackathon 1010 - 2020. This demo app is created in 48 hours along with another main app QPVC Manager App. 
 
-A new Flutter application.
+## Quick demo snapshot
+[![Watch the video](https://firebasestorage.googleapis.com/v0/b/qpv-face-scanner.appspot.com/o/client_app_screenshot%2FScreen%20Shot%202020-11-21%20at%206.56.05%20PM.png?alt=media&token=98207c11-4587-4708-8cc5-0fa319fcb799)](https://youtu.be/D6M9zxeiifg)
 
-## Getting Started
+# Team member
+* Vu Nguyen
+* Nguyen Hoang Quy
+* Phuong Nguyen
+* Phan Thien Chi
 
-This project is a starting point for a Flutter application.
+## Developer
+* Vu Nguyen
+* Nguyen Hoang Quy
+* Phuong Nguyen
 
-A few resources to get you started if this is your first Flutter project:
+## Demo Features (Not 100% completed)
+* Tracking the history and status of parcels which are delivered to the Smart warehouse.
+* Customers use this app to register the faces for picking up parcel at the Smart warehouse.
+* Keep track up the Recycle score that the customer collects by donating used cardboard boxes.
+* Receive notifications when the parcel arrives at the Smart warehouse, request for picking up.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Upcoming future features:
+* Contactless payment via digital wallets for COD service.
+* OCR ID card verification.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> Set up project [ 11/17/2020 5:18 PM ]
+## Technologies:
+* We use prebuilt model via Face API provided by Microsoft Cognitive Services to train and identify the customers.
+* Google Vision is used to detect face in live camera.
+* Google Cloud Firestore to store customers data and parcels data.
+* Frontend framework: Flutter
+
+![Image description](https://firebasestorage.googleapis.com/v0/b/qpv-face-scanner.appspot.com/o/client_app_screenshot%2FScreenshot_2020-11-21-15-10-06-483_com.virelic.qpv_client_app%20(1).jpg?alt=media&token=e8c95b72-b12a-4d40-9db2-dd45afb22f63) 
+![Image description](https://firebasestorage.googleapis.com/v0/b/qpv-face-scanner.appspot.com/o/client_app_screenshot%2FScreenshot_2020-11-21-15-09-57-530_com.virelic.qpv_client_app.jpg?alt=media&token=f4029372-cc16-45ef-8273-b5b191766d74) 
+![Image description](https://firebasestorage.googleapis.com/v0/b/qpv-face-scanner.appspot.com/o/client_app_screenshot%2FScreenshot_2020-11-21-15-10-31-260_com.virelic.qpv_client_app.jpg?alt=media&token=b2e80a12-ab79-451a-8cd3-e55410aad634)
