@@ -1,5 +1,5 @@
 # HueGang Team - QPVC User Tracking App
-This mobile is a part of our Smart Warehouse business solution for AI Hackathon 1010 - 2020. This demo app is created in 48 hours along with another main app QPVC Manager App. 
+This mobile is a part of our Smart Warehouse business solution for AI Hackathon 1010 - 2020. This demo app is created in 48 hours along with another main app QPVC Manager App [https://github.com/vunguyen7797/QPVC-Smart-warehouse-manager]
 
 ## Quick demo snapshot
 [![Watch the video](https://firebasestorage.googleapis.com/v0/b/qpv-face-scanner.appspot.com/o/client_app_screenshot%2FScreen%20Shot%202020-11-21%20at%206.57.52%20PM.png?alt=media&token=d2a6541d-689d-45cc-ad48-05b7f6217346)](https://youtu.be/D6M9zxeiifg)
